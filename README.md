@@ -2,7 +2,7 @@
 
 Welcome to the Book List App! This React application allows users to manage a list of books, including the ability to add, update, and delete book entries.
 
-![Alt text](https://www.facebook.com/messenger_media?attachment_id=782516137047854&message_id=mid.%24cAABa82NRzoeTTQWFs2NG8BKUk5Pj&thread_id=100001389858439)
+![Alt text](https://scontent.fmnl8-1.fna.fbcdn.net/v/t1.15752-9/416086601_782516140381187_8469330128639484619_n.png?_nc_cat=100&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=dc32xoa0cmIAX-yZJ7U&_nc_ht=scontent.fmnl8-1.fna&oh=03_AdTGcK91LjNW-R2xFwIMn81BK2eMx22PI_k-1kswyYjtcA&oe=65D071A8)
 
 ## Features
 
