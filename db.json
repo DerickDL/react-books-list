@@ -1,0 +1,91 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "The Mastermind's Algorithm: Unlocking the Secrets of Programming",
+      "author": "De Leon, et al."
+    },
+    {
+      "id": "2",
+      "title": "Unleashing Potential: A Journey into Personal and Professional Development",
+      "author": "De Leon, et al."
+    },
+    {
+      "id": "3",
+      "title": "The Path to Progress: Unleashing the Power of Development",
+      "author": "De Leon, et al."
+    },
+    {
+      "id": "4",
+      "title": "The Complete Guide to Web Development: Mastering the Art of Building Dynamic Websites",
+      "author": "De Leon, et al."
+    },
+    {
+      "id": "5",
+      "title": "The Essential Guide to Modern Web Development: Mastering the Art of Building Cutting-Edge Websites",
+      "author": "De Leon, et al."
+    },
+    {
+      "id": "1159142",
+      "title": "Agile Web Development with Rails",
+      "author": "Sam Ruby, Dave Thomas, David Heinemeier Hansson",
+      "cover": "http://libgen.org/covers/721000/ae49d9bb94118632df0691df18706319-g.jpg"
+    },
+    {
+      "id": "2375753",
+      "title": "Flask Web Development",
+      "author": "Miguel Grinberg",
+      "cover": null
+    },
+    {
+      "id": "592321",
+      "title": "Agile web development with rails: a Pragmatic guide",
+      "author": "Dave Thomas, David Heinemeier Hansson, Leon Breedt, Mike Clark, Thomas Fuchs, Andrea Schwarz",
+      "cover": "http://libgen.org/covers/164000/af5f2f07c3bf2fd005fc4189b6945feb-d.jpg"
+    },
+    {
+      "id": "643503",
+      "title": "CakePHP Application Development: Step-by-step introduction to rapid web development using the open-source MVC CakePHP framework",
+      "author": "Ahsanul Bari, Anupom Syam",
+      "cover": "http://libgen.org/covers/215000/0130dd963cca48d57bfe2252c2a521f7-d.jpg"
+    },
+    {
+      "id": "547307",
+      "title": "Alex Homer, ASP.NET 2.0 Visual Web Developer 2005",
+      "author": "David Sussman",
+      "cover": "http://libgen.org/covers/119000/f317bc40ec89d98e867b2099c4341a68.jpg"
+    },
+    {
+      "id": "643519",
+      "title": "PHP Oracle Web Development: Data processing, Security, Caching, XML, Web Services, and Ajax: A practical guide to combining the power, performance, scalability, ... time, and high performance of PHP",
+      "author": "Yuli Vasiliev",
+      "cover": "http://libgen.org/covers/215000/d930b9ce10509818a14659bc607dab78-d.jpg"
+    },
+    {
+      "id": "2166584",
+      "title": "WordPress for Web Developers: An Introduction for Web Professionals",
+      "author": "Stephanie Leary (auth.)",
+      "cover": "http://link.springer.com/static-content/covers/books/642/9781430258674.jpg"
+    },
+    {
+      "id": "ee63",
+      "title": "123123",
+      "author": "wdasdas"
+    },
+    {
+      "id": "b892",
+      "title": "123123",
+      "author": "asdasd"
+    },
+    {
+      "id": "f5bf",
+      "title": "123123qwdasd",
+      "author": "asdasd"
+    },
+    {
+      "id": "a397",
+      "title": "1`312asdas",
+      "author": "asdasd"
+    }
+  ]
+}
